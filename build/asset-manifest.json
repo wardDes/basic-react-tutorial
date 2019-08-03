@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wardDes/basic-react-tutorial/static/css/main.545ae54c.chunk.css",
+    "main.js": "/wardDes/basic-react-tutorial/static/js/main.5305431b.chunk.js",
+    "main.js.map": "/wardDes/basic-react-tutorial/static/js/main.5305431b.chunk.js.map",
+    "runtime~main.js": "/wardDes/basic-react-tutorial/static/js/runtime~main.e2c201fc.js",
+    "runtime~main.js.map": "/wardDes/basic-react-tutorial/static/js/runtime~main.e2c201fc.js.map",
+    "static/js/2.b390e18c.chunk.js": "/wardDes/basic-react-tutorial/static/js/2.b390e18c.chunk.js",
+    "static/js/2.b390e18c.chunk.js.map": "/wardDes/basic-react-tutorial/static/js/2.b390e18c.chunk.js.map",
+    "index.html": "/wardDes/basic-react-tutorial/index.html",
+    "precache-manifest.297f8b83a4a97f1b49c83a3f12d3a537.js": "/wardDes/basic-react-tutorial/precache-manifest.297f8b83a4a97f1b49c83a3f12d3a537.js",
+    "service-worker.js": "/wardDes/basic-react-tutorial/service-worker.js",
+    "static/css/main.545ae54c.chunk.css.map": "/wardDes/basic-react-tutorial/static/css/main.545ae54c.chunk.css.map"
+  }
+}
